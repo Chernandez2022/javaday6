@@ -1,0 +1,15 @@
+2020/12/01-09:47:00.676 1a08 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_read.activelylearn.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/01-09:47:00.677 1a08 Recovering log #51
+2020/12/01-09:47:00.678 1a08 Reusing old log C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_read.activelylearn.com_0.indexeddb.leveldb/000051.log 
+2020/12/01-11:24:00.150 957c Level-0 table #56: started
+2020/12/01-11:24:00.156 957c Level-0 table #56: 19765 bytes OK
+2020/12/01-11:24:00.157 957c Delete type=0 #51
+2020/12/01-11:24:00.157 957c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/01-11:24:00.157 957c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x14\x00A\x00c\x00t\x00i\x00v\x00e\x00l\x00y\x00L\x00e\x00a\x00r\x00n\x00L\x00o\x00c\x00a\x00l\x00D\x00B' @ 490 : 1
+2020/12/01-11:24:00.157 957c Compacting 1@1 + 1@2 files
+2020/12/01-11:24:00.159 957c Generated table #57@1: 68 keys, 22345 bytes
+2020/12/01-11:24:00.159 957c Compacted 1@1 + 1@2 files => 22345 bytes
+2020/12/01-11:24:00.159 957c compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/01-11:24:00.160 957c Delete type=2 #53
+2020/12/01-11:24:00.160 957c Delete type=2 #56
+2020/12/01-11:24:00.160 957c Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x14\x00A\x00c\x00t\x00i\x00v\x00e\x00l\x00y\x00L\x00e\x00a\x00r\x00n\x00L\x00o\x00c\x00a\x00l\x00D\x00B' @ 490 : 1 .. (end); will stop at (end)

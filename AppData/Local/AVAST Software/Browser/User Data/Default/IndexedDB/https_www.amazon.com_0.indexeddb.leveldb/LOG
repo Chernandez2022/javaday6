@@ -1,0 +1,15 @@
+2020/11/16-16:11:13.733 17f8 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/16-16:11:13.734 17f8 Recovering log #63
+2020/11/16-16:11:13.734 17f8 Reusing old log C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.amazon.com_0.indexeddb.leveldb/000063.log 
+2020/11/16-16:11:16.774 401c Level-0 table #68: started
+2020/11/16-16:11:16.777 401c Level-0 table #68: 1329 bytes OK
+2020/11/16-16:11:16.779 401c Delete type=0 #63
+2020/11/16-16:11:16.779 401c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/16-16:11:16.780 401c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x03\x00\x90\xed\xca1]wB\x00\x01\x14\x007\x00M\x00M\x00P\x00R\x00Y\x00D\x00S\x000\x006\x00T\x00S\x00D\x00C\x006\x00R\x00K\x00K\x007\x00J' @ 513 : 1
+2020/11/16-16:11:16.780 401c Compacting 1@1 + 1@2 files
+2020/11/16-16:11:16.781 401c Generated table #69@1: 26 keys, 740 bytes
+2020/11/16-16:11:16.781 401c Compacted 1@1 + 1@2 files => 740 bytes
+2020/11/16-16:11:16.782 401c compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/16-16:11:16.782 401c Delete type=2 #65
+2020/11/16-16:11:16.782 401c Delete type=2 #68
+2020/11/16-16:11:16.783 401c Manual compaction at level-1 from '\x00\x01\x01\x1f\x03\x00\x90\xed\xca1]wB\x00\x01\x14\x007\x00M\x00M\x00P\x00R\x00Y\x00D\x00S\x000\x006\x00T\x00S\x00D\x00C\x006\x00R\x00K\x00K\x007\x00J' @ 513 : 1 .. (end); will stop at (end)

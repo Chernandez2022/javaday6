@@ -1,0 +1,8 @@
+2020/11/16-15:46:16.462 2590 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/16-15:46:16.463 2590 Recovering log #10
+2020/11/16-15:46:16.463 2590 Reusing old log C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.instagram.com_0.indexeddb.leveldb/000010.log 
+2020/11/16-15:47:23.215 1938 Level-0 table #15: started
+2020/11/16-15:47:23.215 1938 Level-0 table #15: 0 bytes OK
+2020/11/16-15:47:23.235 1938 Delete type=0 #10
+2020/11/16-15:47:23.235 1938 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/16-15:47:23.235 1938 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/10/12-17:21:58.189 ed0 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_thebiem.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/12-17:22:20.451 3310 Level-0 table #5: started
+2020/10/12-17:22:20.453 3310 Level-0 table #5: 6304 bytes OK
+2020/10/12-17:22:20.454 3310 Delete type=0 #3
+2020/10/12-17:22:20.454 3310 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

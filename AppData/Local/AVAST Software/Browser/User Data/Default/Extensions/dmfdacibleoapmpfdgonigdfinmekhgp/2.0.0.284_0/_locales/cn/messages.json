@@ -1,0 +1,374 @@
+{
+	"product_name": {
+		"message": "Avast SecureLine VPN",
+		"description": "Product name which is used for this application."
+	},
+	"product_description": {
+		"message": "一键加密您的互联网连接，享受真正的在线隐私。",
+		"description": "Extension description."
+	},
+	"extension_icon_overlay_text_disconnected": {
+		"message": "Avast SecureLine VPN - 已断开连接",
+		"description": "Extension icon tooltip text in disconnected state."
+	},
+	"extension_icon_overlay_text_connecting": {
+		"message": "Avast SecureLine VPN - 正在连接",
+		"description": "Extension icon tooltip text in connecting state."
+	},
+	"extension_icon_overlay_text_reconnecting": {
+		"message": "Avast SecureLine VPN - 正在重新连接",
+		"description": "Extension icon tooltip text in reconnecting state."
+	},
+	"extension_icon_overlay_text_connected": {
+		"message": "Avast SecureLine VPN - 已连接",
+		"description": "Extension icon tooltip text in connected state."
+	},
+	"extension_icon_overlay_text_disconnecting": {
+		"message": "Avast SecureLine VPN - 正在断开连接",
+		"description": "Extension icon tooltip text in disconnecting state."
+	},
+	"optimal_location": {
+		"message": "最佳位置",
+		"description": "Used to prepend name of location which is optimal."
+	},
+	"offline": {
+		"message": "离线",
+		"description": "Text which is displayed instead of Public IP address when host is offline."
+	},
+	"your_computer_seems_to_be_offline": {
+		"message": "您的计算机可能已经离线",
+		"description": "IP Address tooltip text when host is offline."
+	},
+	"vpn_location": {
+		"message": "VPN 位置：",
+		"description": "Text above the currently selected location in dashboard popup."
+	},
+	"your_ip_address": {
+		"message": "您的 IP 地址：",
+		"description": "Text before the current IP address, in Disconnected state, at the footer of the dashboard popup."
+	},
+	"locating": {
+		"message": "正在定位",
+		"description": "Text displayed instead of public IP address during fetching it via GeoIp service."
+	},
+	"this_is_your_current_ip_address": {
+		"message": "这是您当前的 IP 地址。",
+		"description": "Text that appears in a tooltip above current IP address in notification popups."
+	},
+	"learn_more": {
+		"message": "了解更多",
+		"description": "Text that appears in a tooltip above Info buitton (i) in a dashboard popup."
+	},
+	"connecting": {
+		"message": "正在连接",
+		"description": "Text displayed on main dashboard to show that current VPN state is Connecting."
+	},
+	"reconnecting": {
+		"message": "正在重新连接",
+		"description": "Text displayed on main dashboard to show that current VPN state is Reconnecting."
+	},
+	"connected": {
+		"message": "已连接",
+		"description": "Text displayed on main dashboard to show that current VPN state is Connected."
+	},
+	"disconnecting": {
+		"message": "正在断开连接",
+		"description": "Text displayed on main dashboard to show that current VPN state is Disconnecting."
+	},
+	"disconnected": {
+		"message": "已断开连接",
+		"description": "Text displayed on main dashboard to show that current VPN state is Disconnected."
+	},
+	"connection_failed": {
+		"message": "连接失败",
+		"description": "Text displayed on main dashboard to show that current VPN state is Connection failed."
+	},
+	"virtual_ip_address": {
+		"message": "虚拟 IP 地址：",
+		"description": "Text before the current IP address, in Connected state, at the footer of the dashboard popup."
+	},
+	"waiting_for_ip_address_to_be_assigned_to_your_computer": {
+		"message": "正在等待为您的计算机分配 IP 地址。",
+		"description": "Text that appears in the tooltop above the 'Locating...' string at the footer of the dashboard popup."
+	},
+	"turn_on_vpn_reason": {
+		"message": "这是您当前的 IP 地址。网站可轻松利用该 IP 地址对您进行识别。打开 VPN 保护您的连接隐私。",
+		"description": "Text that appears in the tooltop above the current IP address, in Disconnected state, at the footer of the dashboard popup."
+	},
+	"virtual_ip_address_explanation": {
+		"message": "虚拟 IP 地址是在其他网站中显示的地址，意味着隐藏了您的真实位置，并对您的流量进行加密。",
+		"description": "Text that appears in the tooltop above the current IP address, in Connected state, at the footer of the dashboard popup."
+	},
+	"activate_vpn_product": {
+		"message": "如需使用该功能，您需要激活您的 Avast SecureLine VPN。",
+		"description": "Message shown to user when extension detects that VPN license has not been activated."
+	},
+	"activate_vpn_product_avast_one": {
+		"message": "如需使用该功能，您需要激活您的 Avast One VPN。",
+		"description": "Message shown to user when extension detects that VPN license has not been activated."
+	},
+	"install_vpn_product": {
+		"message": "如需使用该功能，您需要安装最新版 Avast SecureLine VPN。",
+		"description": "Message shown to user when extension detects that VPN client has not been installed."
+	},
+	"install_vpn_product_avast_one": {
+		"message": "如需使用该功能，您需要安装最新版 Avast One。",
+		"description": "Message shown to user when extension detects that VPN client has not been installed."
+	},
+	"make_sure_your_internet_connection_works_properly": {
+		"message": "您似乎已离线，请确保您的 Internet 连接正常。",
+		"description": "Message shown to user when extension detects that there is no Internet connection."
+	},
+	"something_is_not_right": {
+		"message": "存在错误",
+		"description": "Message shown to user when extension detects an error."
+	},
+	"please_try_reinstalling_vpn_product": {
+		"message": "请尝试重新安装 Avast SecureLine VPN 客户端",
+		"description": "Message shown to user when extension suggests user to reinstall VPN client."
+	},
+	"please_try_reinstalling_vpn_product_avast_one": {
+		"message": "请尝试重新安装 Avast One VPN 客户端",
+		"description": "Message shown to user when extension suggests user to reinstall VPN client."
+	},
+	"see_how": {
+		"message": "查看具体方法",
+		"description": "Text of the hyperlink with URL of the Help page."
+	},
+	"if_that_does_not_work_try_reinstalling_browser_product": {
+		"message": "如果不成功，尝试重新安装 Avast Secure Browser",
+		"description": "Message shown to user when extension suggests user to reinstall Secure browser."
+	},
+	"something_not_right_please_restart": {
+		"message": "Avast SecureLine VPN 存在错误。请重新启动您的计算机。",
+		"description": "Message shown to user when extension suggests user to restart their computer."
+	},
+	"something_not_right_please_restart_avast_one": {
+		"message": "Avast One VPN 存在错误。请重新启动您的计算机。",
+		"description": "Message shown to user when extension suggests user to restart their computer."
+	},
+	"update_browser_product_to_use_this_feature": {
+		"message": "如需使用该功能，您需要更新您的 Avast Secure Browser。",
+		"description": "Message shown to user when extension suggests user to update Secure browser."
+	},
+	"update_vpn_product_to_use_this_feature": {
+		"message": "如需使用该功能，您需要更新您的 Avast SecureLine VPN 客户端。",
+		"description": "Message shown to user when extension suggests user to update VPN client."
+	},
+	"update_vpn_product_to_use_this_feature_avast_one": {
+		"message": "如需使用该功能，您需要更新您的 Avast One VPN 客户端。",
+		"description": "Message shown to user when extension suggests user to update VPN client."
+	},
+	"update_now": {
+		"message": "立即更新",
+		"description": "Message shown on the button in a popup suggesting user to update browser or VPN client."
+	},
+	"you_need_to_update_your_vpn_product_extension": {
+		"message": "您需要更新您的 Avast VPN 扩展程序。",
+		"description": "Message shown to user when extension suggests user to update VPN extension."
+	},
+	"loading": {
+		"message": "正在加载",
+		"description": "Message shown to user when extension is loading data (upon launch)."
+	},
+	"dismiss": {
+		"message": "解除",
+		"description": "Caption on the button displayed on the error notification view."
+	},
+	"your_location_connected": {
+		"message": "您的位置现在对其他人显示为:",
+		"description": "Text displayed on main dashboard on top of the selected location when the user is connected."
+	},
+	"your_location_disconnected": {
+		"message": "位置将显示为:",
+		"description": "Text displayed on main dashboard on top of the selected location when the user is disconnected."
+	},
+	"fastest_location": {
+		"message": "最快的位置",
+		"description": "Text displayed on main dashboard if the user selected the optimal location."
+	},
+	"select_location": {
+		"message": "选择位置",
+		"description": "Text displayed on locations dashboard for the user to select a new location."
+	},
+	"secure_connection": {
+		"message": "安全连接",
+		"description": "Text displayed on locations dashboard"
+	},
+	"connection_status_connected_title": {
+		"message": "您的 VPN <span class=\"marker-green\">已开启</span>",
+		"description": "Title displayed on locations dashboard when the user is connected. (Please use short text in the marker html code)"
+	},
+	"connection_status_connected_text": {
+		"message": "连接已加密且您的位置已隐藏。",
+		"description": "Text displayed on locations dashboard when the user is connected."
+	},
+	"connection_status_disconnected_title": {
+		"message": "您的 VPN <span class=\"marker-red\">未开启</span>",
+		"description": "Title displayed on locations dashboard when the user is disconnected. (Please use short text in the marker html code)"
+	},
+	"connection_status_disconnected_text": {
+		"message": "连接未加密且您的位置可见。",
+		"description": "Text displayed on locations dashboard when the user is disconnected."
+	},
+	"connection_status_disconnected_free_title": {
+		"message": "强大的浏览<span class=\"marker-orange\">保护</span>",
+		"description": "Title displayed on locations dashboard when the user is on trial and didn't use the 5GB that are for free.  (Please use short text in the marker html code)"
+	},
+	"connection_status_disconnected_free_text": {
+		"message": "<b>免费</b>享受多达 <b>5GB</b> 的 VPN 浏览保护",
+		"description": "Text displayed on locations dashboard when the user is on trial and didn't use the 5GB that are for free."
+	},
+	"connection_status_limit_reached_title": {
+		"message": "您已<span class=\"marker-orange\">达到</span>限值",
+		"description": "Text displayed on locations dashboard when the user is on trial and has reach the limit. (Please use short text in the marker html code)"
+	},
+	"connection_status_limit_reached_text": {
+		"message": "您已用完本周的所有免费 VPN 流量。",
+		"description": "Text displayed on locations dashboard when the user is on trial and has reach the limit."
+	},
+	"connection_status_limit_reached_promotion_text": {
+		"message": "使用 Premium 版随时随地更加私密、更加安全，并且畅享无限 VPN 流量，访问流媒体内容。",
+		"description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit."
+	},
+	"connection_status_limit_reached_promotion_list_item_1": {
+		"message": "一键即可获取真正的在线隐私",
+		"description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 1"
+	},
+	"connection_status_limit_reached_promotion_list_item_2": {
+		"message": "使用 VPN 全天候安全连接",
+		"description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 2"
+	},
+	"connection_status_limit_reached_promotion_list_item_3": {
+		"message": "了解密码是否泄露",
+		"description": "Promotion text displayed on locations dashboard when the user is on trial and has reach the limit. Reason 3"
+	},
+	"promotion_button": {
+		"message": "转至 Premium",
+		"description": "Button for the promotion text displayed on locations dashboard when the user is on trial."
+	},
+	"promotion_title": {
+		"message": "数据不限量和55 个位置",
+		"description": "Title for the promotion text displayed at the bottom of the on locations dashboard when the user is on trial and do not reach the limit."
+	},
+	"promotion_text": {
+		"message": "充分发挥 VPN 的作用并提升隐私。",
+		"description": "Text for the promotion text displayed at the bottom of locations dashboard when the user is on trial and do not reach the limit."
+	},
+	"free_data_free": {
+		"message": "免费 VPN 数据",
+		"description": "Text on top of the bar with the free data displayed in locations dashboard when the user is on trial."
+	},
+	"free_data_renew_in": {
+		"message": "$DAYS$ 天后续订",
+		"description": "Text on top of the bar with the free data, displayed in locations dashboard when the user is on trial.",
+		"placeholders": {
+			"days": {
+				"content": "$1",
+				"example": "3"
+			}
+		}
+	},
+	"free_data_used": {
+		"message": "已使用 $DATA$",
+		"description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+		"placeholders": {
+			"data": {
+				"content": "$1",
+				"example": "5.0 GB"
+			}
+		}
+	},
+	"free_data_allowed_day": {
+		"message": "$DATA$ /天",
+		"description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+		"placeholders": {
+			"data": {
+				"content": "$1",
+				"example": "5.0 GB"
+			}
+		}
+	},
+	"free_data_allowed_week": {
+		"message": "$DATA$ /周",
+		"description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+		"placeholders": {
+			"data": {
+				"content": "$1",
+				"example": "5.0 GB"
+			}
+		}
+	},
+	"free_data_allowed_month": {
+		"message": "$DATA$ /月",
+		"description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+		"placeholders": {
+			"data": {
+				"content": "$1",
+				"example": "5.0 GB"
+			}
+		}
+	},
+	"free_data_allowed_year": {
+		"message": "$DATA$ /年",
+		"description": "Text after the bar with the free data, displayed in locations dashboard when the user is on trial.",
+		"placeholders": {
+			"data": {
+				"content": "$1",
+				"example": "5.0 GB"
+			}
+		}
+	},
+	"ip_info_connected": {
+		"message": "您已畅享隐私。",
+		"description": "Text after the selected location when the user is connected."
+	},
+	"ip_info_disconnected": {
+		"message": "打开 VPN 加密浏览",
+		"description": "Text after the selected location when the user is disconnected."
+	},
+	"information": {
+		"message": "信息",
+		"description": "Text to show in the tooltip."
+	},
+	"ip_address": {
+		"message": "原始 IP: $IP$",
+		"description": "The real IP of the user. Text to show in the tooltip.",
+		"placeholders": {
+			"ip": {
+				"content": "$1",
+				"example": "12.123.123.12 "
+			}
+		}
+	},
+	"virtual_ip": {
+		"message": "新 IP: $IP$",
+		"description": "The virtual IP. Text to show in the tooltip.",
+		"placeholders": {
+			"ip": {
+				"content": "$1",
+				"example": "12.123.123.12"
+			}
+		}
+	},
+	"time_connected": {
+		"message": "连接时间: $TIME$",
+		"description": "The time the user is connected to the VPN. Text to show in the tooltip.",
+		"placeholders": {
+			"time": {
+				"content": "$1",
+				"example": "01:12:34"
+			}
+		}
+	},
+	"location": {
+		"message": "位置: $DATA$",
+		"description": "The location the user is connected to. Text to show in the tooltip.",
+		"placeholders": {
+			"data": {
+				"content": "$1",
+				"example": "USA, Las Vegas"
+			}
+		}
+	}
+}

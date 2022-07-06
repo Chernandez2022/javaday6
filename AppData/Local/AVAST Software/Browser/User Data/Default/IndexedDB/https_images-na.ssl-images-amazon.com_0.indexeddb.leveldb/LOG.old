@@ -1,0 +1,8 @@
+2020/12/02-19:04:19.619 6a24 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_images-na.ssl-images-amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/02-19:04:19.619 6a24 Recovering log #10
+2020/12/02-19:04:19.619 6a24 Reusing old log C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_images-na.ssl-images-amazon.com_0.indexeddb.leveldb/000010.log 
+2020/12/02-19:04:28.266 b8b0 Level-0 table #14: started
+2020/12/02-19:04:28.266 b8b0 Level-0 table #14: 0 bytes OK
+2020/12/02-19:04:28.268 b8b0 Delete type=0 #10
+2020/12/02-19:04:28.269 b8b0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/02-19:04:28.269 b8b0 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

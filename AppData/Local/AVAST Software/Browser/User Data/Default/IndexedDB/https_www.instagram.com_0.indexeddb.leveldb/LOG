@@ -1,0 +1,15 @@
+2020/11/30-09:17:26.650 2ae0 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/30-09:17:26.651 2ae0 Recovering log #14
+2020/11/30-09:17:26.651 2ae0 Reusing old log C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.instagram.com_0.indexeddb.leveldb/000014.log 
+2020/11/30-09:17:37.693 8028 Level-0 table #18: started
+2020/11/30-09:17:37.696 8028 Level-0 table #18: 190 bytes OK
+2020/11/30-09:17:37.699 8028 Delete type=0 #14
+2020/11/30-09:17:37.699 8028 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/30-09:17:37.699 8028 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 45 : 1
+2020/11/30-09:17:37.700 8028 Compacting 1@1 + 1@2 files
+2020/11/30-09:17:37.702 8028 Generated table #19@1: 18 keys, 479 bytes
+2020/11/30-09:17:37.702 8028 Compacted 1@1 + 1@2 files => 479 bytes
+2020/11/30-09:17:37.704 8028 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/30-09:17:37.705 8028 Delete type=2 #12
+2020/11/30-09:17:37.705 8028 Delete type=2 #18
+2020/11/30-09:17:37.706 8028 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 45 : 1 .. (end); will stop at (end)

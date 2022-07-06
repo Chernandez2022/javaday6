@@ -1,0 +1,8 @@
+2020/12/07-12:46:34.891 d9a8 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/07-12:46:34.891 d9a8 Recovering log #932
+2020/12/07-12:46:34.892 d9a8 Reusing old log C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_meet.google.com_0.indexeddb.leveldb/000932.log 
+2020/12/07-13:49:18.547 9ea8 Level-0 table #936: started
+2020/12/07-13:49:18.548 9ea8 Level-0 table #936: 0 bytes OK
+2020/12/07-13:49:18.550 9ea8 Delete type=0 #932
+2020/12/07-13:49:18.550 9ea8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/07-13:49:18.550 9ea8 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,74 @@
+{
+   "checksum": "6aa34186c8de766a8c605ffa8bec0703",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13250704321067289",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13250704321067302",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sponsored": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13250704321258236",
+            "date_modified": "0",
+            "guid": "d689f680-e63d-4c9d-bfb3-01d5c7fbf447",
+            "id": "6",
+            "name": "ActiveUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13250704321258254",
+            "date_modified": "0",
+            "guid": "0d2a2789-0bc0-4412-80ed-537213f7def0",
+            "id": "7",
+            "name": "HiddenUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13250704321258258",
+            "date_modified": "0",
+            "guid": "969175c4-c283-41b1-843d-dfe2aac8a1dd",
+            "id": "8",
+            "name": "RemovedUrls",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13250704321258261",
+            "date_modified": "13250704321258261",
+            "guid": "df678b67-485e-4dd1-8af4-d23446b3fad1",
+            "id": "9",
+            "name": "AllSubfolders",
+            "type": "folder"
+         } ],
+         "date_added": "13250704321067308",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000099",
+         "id": "4",
+         "name": "Sponsored",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13250704321067303",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

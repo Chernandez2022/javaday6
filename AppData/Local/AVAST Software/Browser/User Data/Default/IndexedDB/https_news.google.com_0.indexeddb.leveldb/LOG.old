@@ -1,0 +1,15 @@
+2020/11/29-23:13:14.380 a9a4 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_news.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/29-23:13:14.380 a9a4 Recovering log #7
+2020/11/29-23:13:14.380 a9a4 Reusing old log C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_news.google.com_0.indexeddb.leveldb/000007.log 
+2020/11/29-23:14:45.611 aad4 Level-0 table #12: started
+2020/11/29-23:14:45.616 aad4 Level-0 table #12: 1906 bytes OK
+2020/11/29-23:14:45.617 aad4 Delete type=0 #7
+2020/11/29-23:14:45.618 aad4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/29-23:14:45.618 aad4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01A\x00B\x00x\x00U\x00l\x00h\x00f\x00:\x00/\x00_\x00/\x00D\x00o\x00t\x00s\x00S\x00p\x00l\x00a\x00s\x00h\x00U\x00i\x00:\x00b\x00o\x00q\x00-\x00d\x00o\x00t\x00s\x00.\x00D\x00o\x00t\x00s\x00S\x00p\x00l\x00a\x00s\x00h\x00U\x00i\x00.\x00e\x00n\x00.\x00T\x00q\x00j\x00k\x00Z\x00Y\x00H\x008\x00j\x00A\x00E\x00.\x00e\x00s\x005\x00.\x00O' @ 72 : 0
+2020/11/29-23:14:45.618 aad4 Compacting 1@1 + 1@2 files
+2020/11/29-23:14:45.620 aad4 Generated table #13@1: 20 keys, 2023 bytes
+2020/11/29-23:14:45.620 aad4 Compacted 1@1 + 1@2 files => 2023 bytes
+2020/11/29-23:14:45.620 aad4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/29-23:14:45.620 aad4 Delete type=2 #9
+2020/11/29-23:14:45.620 aad4 Delete type=2 #12
+2020/11/29-23:14:45.621 aad4 Manual compaction at level-1 from '\x00\x01\x01\x02\x01A\x00B\x00x\x00U\x00l\x00h\x00f\x00:\x00/\x00_\x00/\x00D\x00o\x00t\x00s\x00S\x00p\x00l\x00a\x00s\x00h\x00U\x00i\x00:\x00b\x00o\x00q\x00-\x00d\x00o\x00t\x00s\x00.\x00D\x00o\x00t\x00s\x00S\x00p\x00l\x00a\x00s\x00h\x00U\x00i\x00.\x00e\x00n\x00.\x00T\x00q\x00j\x00k\x00Z\x00Y\x00H\x008\x00j\x00A\x00E\x00.\x00e\x00s\x005\x00.\x00O' @ 72 : 0 .. (end); will stop at (end)

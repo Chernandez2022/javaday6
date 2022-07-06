@@ -1,0 +1,15 @@
+2020/11/04-09:42:26.852 602c Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.cnn.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/04-09:42:26.853 602c Recovering log #7
+2020/11/04-09:42:26.854 602c Reusing old log C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.cnn.com_0.indexeddb.leveldb/000007.log 
+2020/11/04-09:42:49.473 3cc0 Level-0 table #11: started
+2020/11/04-09:42:49.475 3cc0 Level-0 table #11: 190 bytes OK
+2020/11/04-09:42:49.478 3cc0 Delete type=0 #7
+2020/11/04-09:42:49.479 3cc0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/04-09:42:49.479 3cc0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 195 : 1
+2020/11/04-09:42:49.479 3cc0 Compacting 1@1 + 1@2 files
+2020/11/04-09:42:49.481 3cc0 Generated table #12@1: 62 keys, 1069 bytes
+2020/11/04-09:42:49.481 3cc0 Compacted 1@1 + 1@2 files => 1069 bytes
+2020/11/04-09:42:49.482 3cc0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/04-09:42:49.483 3cc0 Delete type=2 #5
+2020/11/04-09:42:49.483 3cc0 Delete type=2 #11
+2020/11/04-09:42:49.484 3cc0 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 195 : 1 .. (end); will stop at (end)

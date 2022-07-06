@@ -1,0 +1,5 @@
+2020/11/19-13:19:46.301 15ac Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_app.worldtable.co_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/19-13:20:32.394 486c Level-0 table #5: started
+2020/11/19-13:20:32.418 486c Level-0 table #5: 5279 bytes OK
+2020/11/19-13:20:32.420 486c Delete type=0 #3
+2020/11/19-13:20:32.420 486c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

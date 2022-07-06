@@ -1,0 +1,8 @@
+2020/11/18-22:51:33.228 58a0 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/18-22:51:33.230 58a0 Recovering log #4
+2020/11/18-22:51:33.231 58a0 Reusing old log C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2020/11/18-22:51:35.248 1ac0 Level-0 table #8: started
+2020/11/18-22:51:35.248 1ac0 Level-0 table #8: 0 bytes OK
+2020/11/18-22:51:35.254 1ac0 Delete type=0 #4
+2020/11/18-22:51:35.254 1ac0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/18-22:51:35.254 1ac0 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

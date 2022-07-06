@@ -1,0 +1,26 @@
+{
+	"visitedTld" : 
+	[
+		{
+			"lastUse" : 1657063224,
+			"tld" : "com",
+			"wlDownload" : 1657066987,
+			"wlETag" : "\"5f9fbca5-fb0c8\"",
+			"wlStatus" : 0
+		},
+		{
+			"lastUse" : 1657063182,
+			"tld" : "org",
+			"wlDownload" : 1657067103,
+			"wlETag" : "\"5f920f30-e1b0\"",
+			"wlStatus" : 0
+		},
+		{
+			"lastUse" : 1657063186,
+			"tld" : "net",
+			"wlDownload" : 1657067777,
+			"wlETag" : "\"5f9edbb9-15915\"",
+			"wlStatus" : 0
+		}
+	]
+}

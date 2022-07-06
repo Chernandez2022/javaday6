@@ -1,0 +1,5 @@
+2020/11/23-22:47:41.471 84d0 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.dailymail.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/23-22:47:43.575 4c20 Level-0 table #5: started
+2020/11/23-22:47:43.578 4c20 Level-0 table #5: 419 bytes OK
+2020/11/23-22:47:43.579 4c20 Delete type=0 #3
+2020/11/23-22:47:43.580 4c20 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

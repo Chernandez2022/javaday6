@@ -1,0 +1,12 @@
+{
+  "theme": {
+    "primary": "#09884C",
+    "secondary": "#09884C",
+    "hoverPrimary": "#076D3D",
+    "hoverSecondary": "#076D3D"
+  },
+  "urls": {
+    "eula": "https://www.avg.com/eula",
+    "info": "https://support.avg.com/SupportArticleView?l=en&urlName=AVG-Secure-Browser-FAQ&q=video+downloader&supportType=home/#idt_0280"
+  }
+}

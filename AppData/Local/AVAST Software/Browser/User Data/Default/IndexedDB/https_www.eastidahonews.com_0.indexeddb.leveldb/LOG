@@ -1,0 +1,5 @@
+2020/11/19-13:19:45.018 15ac Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.eastidahonews.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/19-13:20:32.421 486c Level-0 table #5: started
+2020/11/19-13:20:32.423 486c Level-0 table #5: 1127 bytes OK
+2020/11/19-13:20:32.424 486c Delete type=0 #3
+2020/11/19-13:20:32.425 486c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

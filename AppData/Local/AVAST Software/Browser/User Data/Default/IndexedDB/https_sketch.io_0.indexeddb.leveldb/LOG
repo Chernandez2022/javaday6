@@ -1,0 +1,26 @@
+2020/12/07-11:02:39.684 e0d8 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_sketch.io_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/07-11:02:39.685 e0d8 Recovering log #66
+2020/12/07-11:02:39.686 e0d8 Reusing old log C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_sketch.io_0.indexeddb.leveldb/000066.log 
+2020/12/07-11:02:39.709 9958 Level-0 table #72: started
+2020/12/07-11:02:39.711 9958 Level-0 table #72: 1489 bytes OK
+2020/12/07-11:02:39.713 9958 Delete type=0 #66
+2020/12/07-11:02:39.713 9958 Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/12/07-11:22:55.492 afb0 Level-0 table #74: started
+2020/12/07-11:22:55.494 afb0 Level-0 table #74: 5421 bytes OK
+2020/12/07-11:22:55.495 afb0 Delete type=0 #71
+2020/12/07-11:22:55.496 afb0 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x03\x01:\x00/\x00s\x00k\x00e\x00t\x00c\x00h\x00p\x00a\x00d\x00/\x001\x005\x005\x00a\x00b\x005\x008\x004\x00-\x00f\x00e\x005\x005\x00-\x004\x00a\x002\x007\x00-\x008\x008\x008\x001\x00-\x004\x004\x002\x009\x003\x002\x00e\x00f\x007\x009\x004\x003\x00/\x00t\x00h\x00u\x00m\x00b\x00.\x00j\x00p\x00e\x00g' @ 27795 : 0
+2020/12/07-11:22:55.496 afb0 Compacting 1@0 + 1@1 files
+2020/12/07-11:22:55.497 afb0 Generated table #75@0: 100 keys, 1796 bytes
+2020/12/07-11:22:55.497 afb0 Compacted 1@0 + 1@1 files => 1796 bytes
+2020/12/07-11:22:55.497 afb0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/07-11:22:55.498 afb0 Delete type=2 #72
+2020/12/07-11:22:55.498 afb0 Delete type=2 #74
+2020/12/07-11:22:55.499 afb0 Manual compaction at level-0 from '\x00\x02\x01\x03\x01:\x00/\x00s\x00k\x00e\x00t\x00c\x00h\x00p\x00a\x00d\x00/\x001\x005\x005\x00a\x00b\x005\x008\x004\x00-\x00f\x00e\x005\x005\x00-\x004\x00a\x002\x007\x00-\x008\x008\x008\x001\x00-\x004\x004\x002\x009\x003\x002\x00e\x00f\x007\x009\x004\x003\x00/\x00t\x00h\x00u\x00m\x00b\x00.\x00j\x00p\x00e\x00g' @ 27795 : 0 .. (end); will stop at (end)
+2020/12/07-11:22:55.499 afb0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x03\x01:\x00/\x00s\x00k\x00e\x00t\x00c\x00h\x00p\x00a\x00d\x00/\x001\x005\x005\x00a\x00b\x005\x008\x004\x00-\x00f\x00e\x005\x005\x00-\x004\x00a\x002\x007\x00-\x008\x008\x008\x001\x00-\x004\x004\x002\x009\x003\x002\x00e\x00f\x007\x009\x004\x003\x00/\x00t\x00h\x00u\x00m\x00b\x00.\x00j\x00p\x00e\x00g' @ 27960 : 1
+2020/12/07-11:22:55.499 afb0 Compacting 1@1 + 1@2 files
+2020/12/07-11:22:55.500 afb0 Generated table #76@1: 120 keys, 8105 bytes
+2020/12/07-11:22:55.500 afb0 Compacted 1@1 + 1@2 files => 8105 bytes
+2020/12/07-11:22:55.501 afb0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/07-11:22:55.502 afb0 Delete type=2 #69
+2020/12/07-11:22:55.502 afb0 Delete type=2 #75
+2020/12/07-11:22:55.503 afb0 Manual compaction at level-1 from '\x00\x02\x01\x03\x01:\x00/\x00s\x00k\x00e\x00t\x00c\x00h\x00p\x00a\x00d\x00/\x001\x005\x005\x00a\x00b\x005\x008\x004\x00-\x00f\x00e\x005\x005\x00-\x004\x00a\x002\x007\x00-\x008\x008\x008\x001\x00-\x004\x004\x002\x009\x003\x002\x00e\x00f\x007\x009\x004\x003\x00/\x00t\x00h\x00u\x00m\x00b\x00.\x00j\x00p\x00e\x00g' @ 27960 : 1 .. (end); will stop at (end)

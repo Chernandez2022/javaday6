@@ -1,0 +1,5 @@
+2020/10/20-15:16:58.906 3204 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/20-15:17:57.320 3a3c Level-0 table #5: started
+2020/10/20-15:17:57.321 3a3c Level-0 table #5: 1591 bytes OK
+2020/10/20-15:17:57.323 3a3c Delete type=0 #3
+2020/10/20-15:17:57.323 3a3c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

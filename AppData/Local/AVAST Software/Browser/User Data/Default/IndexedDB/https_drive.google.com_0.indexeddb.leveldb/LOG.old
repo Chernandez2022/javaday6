@@ -1,0 +1,15 @@
+2020/12/07-15:13:17.764 9e68 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/07-15:13:17.764 9e68 Recovering log #19
+2020/12/07-15:13:17.764 9e68 Reusing old log C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_drive.google.com_0.indexeddb.leveldb/000019.log 
+2020/12/07-15:13:41.397 dc08 Level-0 table #24: started
+2020/12/07-15:13:41.401 dc08 Level-0 table #24: 259250 bytes OK
+2020/12/07-15:13:41.402 dc08 Delete type=0 #19
+2020/12/07-15:13:41.402 dc08 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/07-15:13:41.402 dc08 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x03\x01'\x008\x004\x006\x005\x004\x003\x002\x003\x000\x00a\x007\x007\x009\x009\x00c\x006\x001\x000\x000\x009\x00f\x00b\x001\x00c\x00c\x00a\x007\x009\x00a\x004\x008\x00f\x00_\x003\x00_\x002\x00:\x000\x000' @ 2575 : 0
+2020/12/07-15:13:41.402 dc08 Compacting 1@1 + 1@2 files
+2020/12/07-15:13:41.405 dc08 Generated table #25@1: 73 keys, 65441 bytes
+2020/12/07-15:13:41.405 dc08 Compacted 1@1 + 1@2 files => 65441 bytes
+2020/12/07-15:13:41.405 dc08 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/07-15:13:41.406 dc08 Delete type=2 #21
+2020/12/07-15:13:41.406 dc08 Delete type=2 #24
+2020/12/07-15:13:41.406 dc08 Manual compaction at level-1 from '\x00\x01\x03\x03\x01'\x008\x004\x006\x005\x004\x003\x002\x003\x000\x00a\x007\x007\x009\x009\x00c\x006\x001\x000\x000\x009\x00f\x00b\x001\x00c\x00c\x00a\x007\x009\x00a\x004\x008\x00f\x00_\x003\x00_\x002\x00:\x000\x000' @ 2575 : 0 .. (end); will stop at (end)

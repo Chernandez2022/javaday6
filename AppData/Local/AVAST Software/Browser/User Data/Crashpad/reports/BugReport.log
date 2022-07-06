@@ -1,0 +1,32 @@
+﻿[2022-04-25 21:25:04.365] [warning] [crashguard ] [11720:10236] [F20AFF: 262] Process dumper doesn't exist in path 'C:\Program Files (x86)\AVAST Software\Browser\Application\100.0.15871.128'.
+[2022-04-25 21:25:04.369] [notice ] [crashguard ] [11720:  924] [6266C6: 175] Process monitoring installed.
+[2022-04-25 21:25:04.387] [notice ] [bug_report ] [11720:10236] [989B60: 370] Processing package type (0)
+[2022-04-25 21:25:04.389] [notice ] [bug_report ] [11720:10236] [7EE7F2:  52] {PackageType_0::b1bbbde9-436f-4d0c-90f8-c5bdce78322b.dmp} About to submit payload of type (1.1)
+[2022-04-25 21:25:04.863] [notice ] [bug_report ] [11720:10236] [7EE7F2:  67] {PackageType_0::b1bbbde9-436f-4d0c-90f8-c5bdce78322b.dmp} * Metadata submitted and we don't want this payload. Marking as reported.
+[2022-04-25 21:25:04.881] [notice ] [bug_report ] [11720:10236] [D9A0B8: 171] {PackageType_0::b1bbbde9-436f-4d0c-90f8-c5bdce78322b.dmp} Payload was NOT submitted
+[2022-04-25 21:25:04.881] [notice ] [bug_report ] [11720:10236] [D9A0B8: 104] {PackageType_0} Done submitting dumps with result: 7
+[2022-04-25 21:25:04.881] [notice ] [bug_report ] [11720:10236] [989B60: 430] Package type '0' reports result: 5
+[2022-05-18 00:49:22.043] [warning] [crashguard ] [20744:19108] [F20AFF: 262] Process dumper doesn't exist in path 'C:\Program Files (x86)\AVAST Software\Browser\Application\101.0.16219.55'.
+[2022-05-18 00:49:22.043] [notice ] [crashguard ] [20744:18252] [6266C6: 175] Process monitoring installed.
+[2022-05-18 00:49:22.043] [notice ] [bug_report ] [20744:19108] [989B60: 370] Processing package type (0)
+[2022-05-18 00:49:22.059] [notice ] [bug_report ] [20744:19108] [7EE7F2:  52] {PackageType_0::3636a6cd-cb2f-4537-86ed-9ff3672ff80a.dmp} About to submit payload of type (1.1)
+[2022-05-18 00:49:22.543] [notice ] [bug_report ] [20744:19108] [7EE7F2:  67] {PackageType_0::3636a6cd-cb2f-4537-86ed-9ff3672ff80a.dmp} * Metadata submitted and we don't want this payload. Marking as reported.
+[2022-05-18 00:49:22.543] [notice ] [bug_report ] [20744:19108] [D9A0B8: 171] {PackageType_0::3636a6cd-cb2f-4537-86ed-9ff3672ff80a.dmp} Payload was NOT submitted
+[2022-05-18 00:49:22.543] [notice ] [bug_report ] [20744:19108] [D9A0B8: 104] {PackageType_0} Done submitting dumps with result: 7
+[2022-05-18 00:49:22.543] [notice ] [bug_report ] [20744:19108] [989B60: 430] Package type '0' reports result: 5
+[2022-05-22 22:29:18.736] [warning] [crashguard ] [16076:17796] [F20AFF: 262] Process dumper doesn't exist in path 'C:\Program Files (x86)\AVAST Software\Browser\Application\101.0.16358.65'.
+[2022-05-22 22:29:18.736] [notice ] [crashguard ] [16076:17652] [6266C6: 175] Process monitoring installed.
+[2022-05-22 22:29:18.752] [notice ] [bug_report ] [16076:17796] [989B60: 370] Processing package type (0)
+[2022-05-22 22:29:18.752] [notice ] [bug_report ] [16076:17796] [7EE7F2:  52] {PackageType_0::81fd93d1-189f-4c2a-ac3d-af1ed1553c19.dmp} About to submit payload of type (1.1)
+[2022-05-22 22:29:19.254] [notice ] [bug_report ] [16076:17796] [7EE7F2:  67] {PackageType_0::81fd93d1-189f-4c2a-ac3d-af1ed1553c19.dmp} * Metadata submitted and we don't want this payload. Marking as reported.
+[2022-05-22 22:29:19.254] [notice ] [bug_report ] [16076:17796] [D9A0B8: 171] {PackageType_0::81fd93d1-189f-4c2a-ac3d-af1ed1553c19.dmp} Payload was NOT submitted
+[2022-05-22 22:29:19.254] [notice ] [bug_report ] [16076:17796] [D9A0B8: 104] {PackageType_0} Done submitting dumps with result: 7
+[2022-05-22 22:29:19.254] [notice ] [bug_report ] [16076:17796] [989B60: 430] Package type '0' reports result: 5
+[2022-06-08 22:02:15.298] [warning] [crashguard ] [ 7356:18116] [F20AFF: 262] Process dumper doesn't exist in path 'C:\Program Files (x86)\AVAST Software\Browser\Application\101.0.16440.68'.
+[2022-06-08 22:02:15.300] [notice ] [crashguard ] [ 7356:20184] [6266C6: 175] Process monitoring installed.
+[2022-06-08 22:02:15.311] [notice ] [bug_report ] [ 7356:18116] [989B60: 370] Processing package type (0)
+[2022-06-08 22:02:15.312] [notice ] [bug_report ] [ 7356:18116] [7EE7F2:  52] {PackageType_0::3989e0e2-2c75-4109-b6ce-c384b6e778e5.dmp} About to submit payload of type (1.1)
+[2022-06-08 22:02:15.821] [notice ] [bug_report ] [ 7356:18116] [7EE7F2:  67] {PackageType_0::3989e0e2-2c75-4109-b6ce-c384b6e778e5.dmp} * Metadata submitted and we don't want this payload. Marking as reported.
+[2022-06-08 22:02:15.821] [notice ] [bug_report ] [ 7356:18116] [D9A0B8: 171] {PackageType_0::3989e0e2-2c75-4109-b6ce-c384b6e778e5.dmp} Payload was NOT submitted
+[2022-06-08 22:02:15.822] [notice ] [bug_report ] [ 7356:18116] [D9A0B8: 104] {PackageType_0} Done submitting dumps with result: 7
+[2022-06-08 22:02:15.822] [notice ] [bug_report ] [ 7356:18116] [989B60: 430] Package type '0' reports result: 5

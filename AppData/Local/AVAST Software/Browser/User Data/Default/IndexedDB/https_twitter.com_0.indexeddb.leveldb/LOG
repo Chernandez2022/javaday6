@@ -1,0 +1,15 @@
+2020/11/19-13:12:29.333 3d60 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/19-13:12:29.335 3d60 Recovering log #25
+2020/11/19-13:12:29.335 3d60 Reusing old log C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_twitter.com_0.indexeddb.leveldb/000025.log 
+2020/11/19-13:13:34.404 5630 Level-0 table #30: started
+2020/11/19-13:13:34.406 5630 Level-0 table #30: 190 bytes OK
+2020/11/19-13:13:34.407 5630 Delete type=0 #25
+2020/11/19-13:13:34.408 5630 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/19-13:13:34.408 5630 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 86 : 1
+2020/11/19-13:13:34.408 5630 Compacting 1@1 + 1@2 files
+2020/11/19-13:13:34.411 5630 Generated table #31@1: 31 keys, 641 bytes
+2020/11/19-13:13:34.411 5630 Compacted 1@1 + 1@2 files => 641 bytes
+2020/11/19-13:13:34.413 5630 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/19-13:13:34.413 5630 Delete type=2 #27
+2020/11/19-13:13:34.413 5630 Delete type=2 #30
+2020/11/19-13:13:34.415 5630 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 86 : 1 .. (end); will stop at (end)

@@ -1,0 +1,12 @@
+{
+  "theme": {
+    "primary": "#09884C",
+    "secondary": "#09884C",
+    "hoverPrimary": "#076D3D",
+    "hoverSecondary": "#076D3D"
+  },
+  "urls": {
+    "eula": "https://www.avast.com/eula",
+    "info": "https://support.avast.com/en-ww/article/29/#idt_3970"
+  }
+}

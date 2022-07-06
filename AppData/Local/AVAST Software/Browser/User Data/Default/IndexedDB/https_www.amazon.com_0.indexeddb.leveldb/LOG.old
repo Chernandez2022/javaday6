@@ -1,0 +1,15 @@
+2020/11/04-13:44:33.914 8848 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/04-13:44:33.915 8848 Recovering log #59
+2020/11/04-13:44:33.915 8848 Reusing old log C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.amazon.com_0.indexeddb.leveldb/000059.log 
+2020/11/04-13:44:38.489 80e8 Level-0 table #64: started
+2020/11/04-13:44:38.491 80e8 Level-0 table #64: 1995 bytes OK
+2020/11/04-13:44:38.492 80e8 Delete type=0 #59
+2020/11/04-13:44:38.493 80e8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/04-13:44:38.493 80e8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x1f\x03\x00\x00\x8e\xa1LYwB\x00\x01\x14\x00M\x008\x003\x00R\x00Y\x006\x003\x00D\x00M\x00X\x00P\x00Q\x000\x00C\x003\x007\x00B\x004\x006\x008' @ 412 : 1
+2020/11/04-13:44:38.493 80e8 Compacting 1@1 + 1@2 files
+2020/11/04-13:44:38.495 80e8 Generated table #65@1: 33 keys, 1171 bytes
+2020/11/04-13:44:38.495 80e8 Compacted 1@1 + 1@2 files => 1171 bytes
+2020/11/04-13:44:38.496 80e8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/04-13:44:38.496 80e8 Delete type=2 #61
+2020/11/04-13:44:38.496 80e8 Delete type=2 #64
+2020/11/04-13:44:38.497 80e8 Manual compaction at level-1 from '\x00\x01\x01\x1f\x03\x00\x00\x8e\xa1LYwB\x00\x01\x14\x00M\x008\x003\x00R\x00Y\x006\x003\x00D\x00M\x00X\x00P\x00Q\x000\x00C\x003\x007\x00B\x004\x006\x008' @ 412 : 1 .. (end); will stop at (end)

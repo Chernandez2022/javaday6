@@ -1,0 +1,12 @@
+{
+  "theme": {
+    "primary": "#326be4",
+    "secondary": "#326be4",
+    "hoverPrimary": "#2856b6",
+    "hoverSecondary": "#2856b6"
+  },
+  "urls": {
+    "eula": "https://www.ccleaner.com/legal/end-user-license-agreement",
+    "info": "https://www.ccleaner.com/support/ccleaner-browser#360028862271"
+  }
+}

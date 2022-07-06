@@ -1,0 +1,5 @@
+2020/10/14-15:09:17.468 3270 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.imdb.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/14-15:09:20.822 4528 Level-0 table #5: started
+2020/10/14-15:09:20.824 4528 Level-0 table #5: 1331 bytes OK
+2020/10/14-15:09:20.824 4528 Delete type=0 #3
+2020/10/14-15:09:20.825 4528 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

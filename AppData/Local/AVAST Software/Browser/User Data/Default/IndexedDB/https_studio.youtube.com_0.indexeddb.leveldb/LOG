@@ -1,0 +1,5 @@
+2020/12/01-20:20:09.937 9ee4 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_studio.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/01-20:20:12.145 9288 Level-0 table #5: started
+2020/12/01-20:20:12.148 9288 Level-0 table #5: 388 bytes OK
+2020/12/01-20:20:12.151 9288 Delete type=0 #3
+2020/12/01-20:20:12.151 9288 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

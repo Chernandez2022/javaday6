@@ -1,0 +1,8 @@
+2020/12/02-19:11:16.016 760c Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_images-na.ssl-images-amazon.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/02-19:11:16.017 760c Recovering log #13
+2020/12/02-19:11:16.017 760c Reusing old log C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_images-na.ssl-images-amazon.com_0.indexeddb.leveldb/000013.log 
+2020/12/02-19:11:25.385 b650 Level-0 table #17: started
+2020/12/02-19:11:25.385 b650 Level-0 table #17: 0 bytes OK
+2020/12/02-19:11:25.386 b650 Delete type=0 #13
+2020/12/02-19:11:25.387 b650 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/02-19:11:25.387 b650 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

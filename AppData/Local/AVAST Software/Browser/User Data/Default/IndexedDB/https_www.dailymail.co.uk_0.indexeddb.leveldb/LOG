@@ -1,0 +1,15 @@
+2020/11/23-22:47:43.917 94b8 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.dailymail.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/23-22:47:43.918 94b8 Recovering log #4
+2020/11/23-22:47:43.918 94b8 Reusing old log C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.dailymail.co.uk_0.indexeddb.leveldb/000004.log 
+2020/11/23-22:48:15.947 7b0 Level-0 table #8: started
+2020/11/23-22:48:15.955 7b0 Level-0 table #8: 2098 bytes OK
+2020/11/23-22:48:15.957 7b0 Delete type=0 #4
+2020/11/23-22:48:15.957 7b0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/23-22:48:15.957 7b0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x09\x00d\x00a\x00t\x00a\x00-\x00o\x00p\x00t\x00s' @ 114 : 1
+2020/11/23-22:48:15.957 7b0 Compacting 1@1 + 1@2 files
+2020/11/23-22:48:15.959 7b0 Generated table #9@1: 40 keys, 1326 bytes
+2020/11/23-22:48:15.959 7b0 Compacted 1@1 + 1@2 files => 1326 bytes
+2020/11/23-22:48:15.960 7b0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/23-22:48:15.961 7b0 Delete type=2 #5
+2020/11/23-22:48:15.961 7b0 Delete type=2 #8
+2020/11/23-22:48:15.961 7b0 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x09\x00d\x00a\x00t\x00a\x00-\x00o\x00p\x00t\x00s' @ 114 : 1 .. (end); will stop at (end)

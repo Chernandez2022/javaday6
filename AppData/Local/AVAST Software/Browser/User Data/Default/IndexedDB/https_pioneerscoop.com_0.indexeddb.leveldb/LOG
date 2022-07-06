@@ -1,0 +1,6 @@
+2020/12/04-17:50:21.026 d56c Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_pioneerscoop.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/04-17:50:21.827 cc84 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/12/04-17:50:23.851 bc3c Level-0 table #5: started
+2020/12/04-17:50:23.853 bc3c Level-0 table #5: 597 bytes OK
+2020/12/04-17:50:23.855 bc3c Delete type=0 #3
+2020/12/04-17:50:23.855 bc3c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

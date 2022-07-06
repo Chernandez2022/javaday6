@@ -1,0 +1,5 @@
+2020/11/05-12:04:00.740 6d24 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_witchcraft101.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/05-12:07:12.376 77f0 Level-0 table #5: started
+2020/11/05-12:07:12.380 77f0 Level-0 table #5: 1074 bytes OK
+2020/11/05-12:07:12.383 77f0 Delete type=0 #3
+2020/11/05-12:07:12.383 77f0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

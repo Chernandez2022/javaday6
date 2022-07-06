@@ -1,0 +1,5 @@
+2020/11/04-13:45:49.952 7d8c Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.alibaba.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/04-13:46:29.802 7a30 Level-0 table #5: started
+2020/11/04-13:46:29.808 7a30 Level-0 table #5: 26188 bytes OK
+2020/11/04-13:46:29.810 7a30 Delete type=0 #3
+2020/11/04-13:46:29.811 7a30 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

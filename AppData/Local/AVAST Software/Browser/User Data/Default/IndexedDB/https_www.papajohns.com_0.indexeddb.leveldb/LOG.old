@@ -1,0 +1,8 @@
+2020/08/20-00:05:43.209 362c Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.papajohns.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/20-00:05:43.210 362c Recovering log #4
+2020/08/20-00:05:43.210 362c Reusing old log C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.papajohns.com_0.indexeddb.leveldb/000004.log 
+2020/08/20-00:06:38.979 1e8c Level-0 table #8: started
+2020/08/20-00:06:38.979 1e8c Level-0 table #8: 0 bytes OK
+2020/08/20-00:06:39.002 1e8c Delete type=0 #4
+2020/08/20-00:06:39.002 1e8c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/20-00:06:39.003 1e8c Manual compaction at level-1 from (begin) .. (end); will stop at (end)

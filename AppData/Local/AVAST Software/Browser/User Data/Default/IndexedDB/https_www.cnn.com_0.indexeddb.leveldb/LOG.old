@@ -1,0 +1,8 @@
+2020/10/27-18:16:31.769 5bc4 Reusing MANIFEST C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.cnn.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/27-18:16:31.770 5bc4 Recovering log #4
+2020/10/27-18:16:31.770 5bc4 Reusing old log C:\Users\hcarl\AppData\Local\AVAST Software\Browser\User Data\Default\IndexedDB\https_www.cnn.com_0.indexeddb.leveldb/000004.log 
+2020/10/27-18:18:56.000 3190 Level-0 table #8: started
+2020/10/27-18:18:56.000 3190 Level-0 table #8: 0 bytes OK
+2020/10/27-18:18:56.002 3190 Delete type=0 #4
+2020/10/27-18:18:56.003 3190 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/27-18:18:56.003 3190 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
